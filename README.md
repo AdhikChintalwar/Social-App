@@ -1,4 +1,4 @@
-- We-Connect is a React JS & Express JS website
+- We-Connect is a JavaScript project
 - Download the zip file of the code or fork the project
 - Open the code in VSCode 
 
