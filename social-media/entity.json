@@ -1,0 +1,48 @@
+{
+    "user": {
+        "id": "id",
+        "username": "username",
+        "name": "name",
+        "password": "password",
+        "bio": "bio",
+        "createdOn": "createdOn",
+        "profilePicture": "https",
+        "followRequest": [],
+        "followers": []
+    },
+    "post": {
+        "id": "",
+        "createdOn": 1719746877594,
+        "text": "",
+        "media": "",
+        "mediaType": "",
+        "postedById": "",
+        "postedBy": {},
+        "likes": [
+            "userId789",
+            "userId101112"
+        ],
+        "comments": [
+            {
+                "userId": "userId789",
+                "id": "sdsds",
+                "text": "Comment 1",
+                "createdOn": 1719746877594
+            },
+            {
+                "userId": "userId101112",
+                "id": "sdsds",
+                "text": "Comment 2",
+                "createdOn": 1719746877594
+            }
+        ]
+    },
+    "group": {
+        "id": "",
+        "name": "",
+        "createBy": "",
+        "createdOn": 1719746877594,
+        "posts": [],
+        "members": []
+    }
+}

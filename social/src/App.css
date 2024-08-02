@@ -1,0 +1,9 @@
+.mainDiv {
+  width: 100%;
+  min-height: 100vh;
+  background-image: url('../src/images/bg4.jpeg');
+  background-color: #83aaa5;
+  background-size:contain;
+  background-position:center;
+  background-repeat: no-repeat;
+}
